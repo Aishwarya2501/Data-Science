@@ -9,11 +9,11 @@ Table of Contents:
 
 Dataset link: https://www.kaggle.com/mchirico/montcoalert
 
-1.Importing libraries
-2.Exploratory Data Analysis(EDA)
+##Importing libraries
+##Exploratory Data Analysis(EDA)
 
-  Zip_codes
-  Township (twp)
+  ###Zip_codes
+  ###Township (twp)
   Title
   Time Stamp
   Month
@@ -24,4 +24,4 @@ Dataset link: https://www.kaggle.com/mchirico/montcoalert
   Month-Year Matrix
   Day and Year Matrix
   Day and Month Matrix
-3.Data Analysis Results
+##Data Analysis Results
