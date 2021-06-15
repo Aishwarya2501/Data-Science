@@ -1,9 +1,7 @@
 # Data-Science
-The dataset for this project is take from kaggle "Emergency - 911 Calls"
+The dataset for this project is taken from Kaggle "Emergency - 911 Calls" used for Exploratory Data Analysis .
 
-In this Project, I have explored the data, performed Feature Engineering ,
-analyzed it using visualization tools like Matplotlib,Seaborn and used the important libraries such as Pandas and Numpy
-
+In this Project, I have explored the data, performed Feature Engineering, used libraries such as Pandas, Numpy and analyzed it using Visualization tools such as Matplotlib, Seaborn .
 
 ## Table of Contents:
 
